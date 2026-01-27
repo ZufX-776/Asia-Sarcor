@@ -48,6 +48,12 @@ body {
   align-items: center;
 }
 
+.country{
+  display: flex;
+  gap: 15px;
+  padding: 0%;
+}
+
 .logo {
   display: flex;
   align-items: center;
